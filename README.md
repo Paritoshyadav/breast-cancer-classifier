@@ -56,7 +56,7 @@ The best result is given by svm with hyperparameter using `GridSearchCV` method
 ### Parameter uses
 - `C: 20` 
 - `gamma': 0.2` 
-- `kernel': 'rbf`
+- `kernel: 'rbf'`
 
 # classification report
 |              | precision | recall | f1-score | support |
